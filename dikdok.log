@@ -1,0 +1,23 @@
+{"level":"DEBUG","time":"2023-08-07T13:38:32.808+0800","caller":"real_my_tiktok/main.go:22","msg":"init logger success"}
+{"level":"DEBUG","time":"2023-08-07T13:41:01.558+0800","caller":"real_my_tiktok/main.go:22","msg":"init logger success"}
+{"level":"DEBUG","time":"2023-08-07T14:27:54.066+0800","caller":"real_my_tiktok/main.go:23","msg":"init logger success"}
+{"level":"ERROR","time":"2023-08-07T14:27:54.094+0800","caller":"mysql/mysql.go:26","msg":"connet mysql failed","error":"Error 1049 (42000): Unknown database 'dikdok_db'"}
+{"level":"DEBUG","time":"2023-08-07T14:28:54.615+0800","caller":"real_my_tiktok/main.go:23","msg":"init logger success"}
+{"level":"ERROR","time":"2023-08-07T14:28:54.625+0800","caller":"mysql/mysql.go:26","msg":"connet mysql failed","error":"Error 1049 (42000): Unknown database 'dikdok_db'"}
+{"level":"DEBUG","time":"2023-08-07T14:28:57.617+0800","caller":"real_my_tiktok/main.go:23","msg":"init logger success"}
+{"level":"ERROR","time":"2023-08-07T14:28:57.626+0800","caller":"mysql/mysql.go:26","msg":"connet mysql failed","error":"Error 1049 (42000): Unknown database 'dikdok_db'"}
+{"level":"DEBUG","time":"2023-08-07T14:29:30.042+0800","caller":"real_my_tiktok/main.go:23","msg":"init logger success"}
+{"level":"DEBUG","time":"2023-08-07T14:37:37.966+0800","caller":"real_my_tiktok/main.go:23","msg":"init logger success"}
+{"level":"DEBUG","time":"2023-08-07T14:37:55.489+0800","caller":"real_my_tiktok/main.go:24","msg":"init logger success"}
+{"level":"DEBUG","time":"2023-08-07T14:38:12.728+0800","caller":"real_my_tiktok/main.go:24","msg":"init logger success"}
+{"level":"DEBUG","time":"2023-08-07T14:39:01.033+0800","caller":"real_my_tiktok/main.go:25","msg":"init logger success"}
+{"level":"DEBUG","time":"2023-08-07T14:39:27.802+0800","caller":"real_my_tiktok/main.go:24","msg":"init logger success"}
+{"level":"DEBUG","time":"2023-08-07T14:39:38.403+0800","caller":"real_my_tiktok/main.go:24","msg":"init logger success"}
+{"level":"DEBUG","time":"2023-08-07T14:39:42.936+0800","caller":"real_my_tiktok/main.go:24","msg":"init logger success"}
+{"level":"DEBUG","time":"2023-08-07T14:40:17.552+0800","caller":"real_my_tiktok/main.go:24","msg":"init logger success"}
+{"level":"DEBUG","time":"2023-08-07T14:40:20.944+0800","caller":"real_my_tiktok/main.go:24","msg":"init logger success"}
+{"level":"DEBUG","time":"2023-08-07T14:40:52.259+0800","caller":"real_my_tiktok/main.go:25","msg":"init logger success"}
+{"level":"INFO","time":"2023-08-07T14:41:07.451+0800","caller":"logger/logger.go:69","msg":"/test","status":200,"method":"GET","path":"/test","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36","errors":"","cost":0.0005126}
+{"level":"INFO","time":"2023-08-07T14:41:07.557+0800","caller":"logger/logger.go:69","msg":"/favicon.ico","status":404,"method":"GET","path":"/favicon.ico","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36","errors":"","cost":0}
+{"level":"DEBUG","time":"2023-08-07T14:44:18.383+0800","caller":"real_my_tiktok/main.go:32","msg":"init logger success"}
+{"level":"INFO","time":"2023-08-07T14:44:49.631+0800","caller":"logger/logger.go:69","msg":"/test","status":200,"method":"GET","path":"/test","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36","errors":"","cost":0}
